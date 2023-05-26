@@ -10,11 +10,6 @@ using System.Windows.Forms;
 using Utoolity.UserControls;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 
-/* BIS415 - IT Capstone in Programming and Desktop Applications
- * Program designed and created by Tiani Jones, icons are courtesy of Freepik
- * Copyright © 2023 Captone Project. All rights reserved.
- */
-
 namespace Utoolity
 {
     public partial class Utoolity : Form

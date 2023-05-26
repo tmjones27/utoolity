@@ -1,0 +1,6 @@
+F:\BIS415\Utoolity\obj\Release\Utoolity.csproj.AssemblyReference.cache
+F:\BIS415\Utoolity\obj\Release\Utoolity.csproj.SuggestedBindingRedirects.cache
+F:\BIS415\Utoolity\obj\Release\Utoolity.Utoolity.resources
+F:\BIS415\Utoolity\obj\Release\Utoolity.Properties.Resources.resources
+F:\BIS415\Utoolity\obj\Release\Utoolity.csproj.GenerateResource.cache
+F:\BIS415\Utoolity\obj\Release\Utoolity.csproj.CoreCompileInputs.cache
